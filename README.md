@@ -81,7 +81,7 @@
   <a href="https://www.facebook.com/ahmad.okab.31">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=Facebook&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
   </a>
-  <a href="https://wa.me/201097436928">
+  <a href="https://wa.me/201050541668">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
   </a>
   <a href="https://wa.me/201050541668>
