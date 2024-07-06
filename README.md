@@ -94,5 +94,5 @@
 <p>Now if you'll excuse me, I'll get back to work now.</p>
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZpbzgxbHphMzUwOHVsZm02b2l3cDI2Zjl4cWs2cTk0cW1qN2tsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" height="500" alt="Cover Image" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZpbzgxbHphMzUwOHVsZm02b2l3cDI2Zjl4cWs2cTk0cW1qN2tsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Cover Image" />
 </div>
