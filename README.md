@@ -5,7 +5,7 @@
 <ul dir="auto">
   <li>🌍  I'm based in Egypt</li>
   <li>🏫I am a fresh graduated from Faculty of Computers & Artificial intelligence -Benha University</li>
-  <li>🖥️  See my portfolio at  <a href="https://ahmedkhalid2002.github.io/my-portfolio/" target="_blank">Ahmed khalid</a> </li>
+  <li>🖥️  See my portfolio at  <a href="[https://ahmedkhalid2002.github.io/my-portfolio/](https://myportfolio-3nae.vercel.app/)" target="_blank">Ahmed khalid</a> </li>
   <li>🔥 I love competitive programming and problem-solving</li>
   <li>🇺🇸 I'm a fluent English speaker, my level according to the CEFR framework is C2 (Arabic is my native tongue).</li>
 </ul>
